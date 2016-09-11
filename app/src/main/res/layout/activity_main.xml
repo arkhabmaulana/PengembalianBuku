@@ -17,6 +17,13 @@
             android:textColor="#e51212"
             android:textStyle="bold" />
 
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="365dp"
+            android:layout_height="185dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/logo" />
+
     </LinearLayout>
 
 </ScrollView>
